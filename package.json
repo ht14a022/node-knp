@@ -1,0 +1,23 @@
+{
+  "name": "node-knp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ht14a022/node-knp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ht14a022/node-knp/issues"
+  },
+  "homepage": "https://github.com/ht14a022/node-knp#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "node-juman": "git+https://github.com/ht14a022/node-juman.git"
+  }
+}
